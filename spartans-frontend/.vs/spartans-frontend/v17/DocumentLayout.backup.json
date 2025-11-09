@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\CreatePostPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\CreatePostPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\ProfilePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ProfilePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\RegisterPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\RegisterPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\LoginPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\LoginPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\HomePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\HomePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Profile\\UserProfile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Profile\\UserProfile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Comment\\CommentList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Comment\\CommentList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Comment\\CommentForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Comment\\CommentForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Post\\PostForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Post\\PostList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Post\\PostCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Layout\\Layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Layout\\Layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Layout\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Layout\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Auth\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Auth\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Auth\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Auth\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\context\\AuthContext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\context\\AuthContext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\commentService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\commentService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\postService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\postService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\authService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\authService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-08T16:53:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-08T16:53:07.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T16:52:43.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePostPage.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\CreatePostPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\CreatePostPage.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\CreatePostPage.jsx",
+              "RelativeToolTip": "src\\pages\\CreatePostPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:50:18.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfilePage.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\ProfilePage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\ProfilePage.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\ProfilePage.jsx",
+              "RelativeToolTip": "src\\pages\\ProfilePage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:49:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterPage.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\RegisterPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\RegisterPage.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\RegisterPage.jsx",
+              "RelativeToolTip": "src\\pages\\RegisterPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:49:22.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\LoginPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\LoginPage.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\LoginPage.jsx",
+              "RelativeToolTip": "src\\pages\\LoginPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:48:54.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\HomePage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\HomePage.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\pages\\HomePage.jsx",
+              "RelativeToolTip": "src\\pages\\HomePage.jsx",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:45:52.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfile.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Profile\\UserProfile.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Profile\\UserProfile.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Profile\\UserProfile.jsx",
+              "RelativeToolTip": "src\\components\\Profile\\UserProfile.jsx",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAUwGQBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:44:40.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommentList.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Comment\\CommentList.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Comment\\CommentList.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Comment\\CommentList.jsx",
+              "RelativeToolTip": "src\\components\\Comment\\CommentList.jsx",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwF0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:41:46.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwHEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T16:10:09.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentForm.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Comment\\CommentForm.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Comment\\CommentForm.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Comment\\CommentForm.jsx",
+              "RelativeToolTip": "src\\components\\Comment\\CommentForm.jsx",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:41:14.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostForm.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostForm.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Post\\PostForm.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostForm.jsx",
+              "RelativeToolTip": "src\\components\\Post\\PostForm.jsx",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAUwMgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:24:49.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostList.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostList.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Post\\PostList.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostList.jsx",
+              "RelativeToolTip": "src\\components\\Post\\PostList.jsx",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwEoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:24:21.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostCard.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostCard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Post\\PostCard.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Post\\PostCard.jsx",
+              "RelativeToolTip": "src\\components\\Post\\PostCard.jsx",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAUwJ4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:23:43.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Layout.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Layout\\Layout.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Layout\\Layout.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Layout\\Layout.jsx",
+              "RelativeToolTip": "src\\components\\Layout\\Layout.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:23:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Layout\\Navbar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Layout\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Layout\\Navbar.jsx",
+              "RelativeToolTip": "src\\components\\Layout\\Navbar.jsx",
+              "ViewState": "AgIAALEAAAAAAAAAAAAUwM8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:22:52.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Auth\\Register.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Auth\\Register.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Auth\\Register.jsx",
+              "RelativeToolTip": "src\\components\\Auth\\Register.jsx",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAUwIgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:20:41.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Auth\\Login.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Auth\\Login.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\components\\Auth\\Login.jsx",
+              "RelativeToolTip": "src\\components\\Auth\\Login.jsx",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwHMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:20:20.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthContext.jsx",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\context\\AuthContext.jsx",
+              "RelativeDocumentMoniker": "src\\context\\AuthContext.jsx",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\context\\AuthContext.jsx",
+              "RelativeToolTip": "src\\context\\AuthContext.jsx",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwC8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-08T16:19:39.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "commentService.js",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\commentService.js",
+              "RelativeDocumentMoniker": "src\\services\\commentService.js",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\commentService.js",
+              "RelativeToolTip": "src\\services\\commentService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T16:19:01.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "postService.js",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\postService.js",
+              "RelativeDocumentMoniker": "src\\services\\postService.js",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\postService.js",
+              "RelativeToolTip": "src\\services\\postService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T16:18:29.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "authService.js",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\authService.js",
+              "RelativeDocumentMoniker": "src\\services\\authService.js",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\authService.js",
+              "RelativeToolTip": "src\\services\\authService.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T16:15:21.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "src\\services\\api.js",
+              "ToolTip": "C:\\Users\\daghm\\Desktop\\boomboom\\spartans-frontend\\src\\services\\api.js",
+              "RelativeToolTip": "src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T16:14:48.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
